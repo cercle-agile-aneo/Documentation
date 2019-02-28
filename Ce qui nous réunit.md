@@ -1,4 +1,4 @@
-# Les idées qui nous réunissent en tant que membres du Cercle Agile ANEO
+# Ce qui nous réunit
 
 ATTENTION : Ceci est un brouillon !
 
