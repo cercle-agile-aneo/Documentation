@@ -16,3 +16,5 @@
 ## A prendre en compte la prochaine fois
 
 - Identifier les next-steps pour challenger notre modèle systémic et pour promouvoir le "Manifeste" qu'on a commencé à construire sur GitHub
+- Avancer sur l'organisation du REX
+- Trouver des indicateurs pertinents
