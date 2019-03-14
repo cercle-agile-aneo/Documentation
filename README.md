@@ -4,6 +4,9 @@ Ceci est une expérience pour co-construire les principes de fonctionnement, et 
 
 Commencez par aller voir les [principes fondateurs](https://github.com/cercle-agile-aneo/Manifeste/blob/master/Principes%20fondateurs.md) pour en savoir plus...
 
+Autres documents à consulter :
+*  [principes fondateurs](https://github.com/cercle-agile-aneo/Manifeste/blob/master/Nos%20rituels.md)
+
 ## Contribution
 
 La contribution requiert au préalable la création d'un compte et l'authentification sur ce site.
