@@ -1,6 +1,6 @@
 ## Principes fondateurs du Manifeste du Cercle Agile ANEO :
 
-0. Nous devons écrire nos idées pour s'assurer qu'elles sont co-construites, partagées et mise en application
+0. Nous devons écrire nos convictions pour s'assurer qu'elles sont co-construites, partagées et mise en application
 1. Nous initions un système évolutif
 2. Nous acceptons le mouvement perpetuel
 3. Il s'agit d'une documentation versionnée et collaborative
