@@ -1,6 +1,6 @@
-## Principes fondateurs du Manifeste du Cercle Agile ANEO :
+## Principes fondateurs de la documentation du Cercle Agile ANEO (ce dépôt GitHub) :
 
-0. Nous devons écrire nos convictions pour s'assurer qu'elles sont co-construites, partagées et mise en application
+0. Nous devons écrire nos convictions et nos apprentissages collectifs pour s'assurer qu'ils sont co-construits, partagés et mis en application
 1. Nous initions un système évolutif
 2. Nous acceptons le mouvement perpetuel
 3. Il s'agit d'une documentation versionnée et collaborative
