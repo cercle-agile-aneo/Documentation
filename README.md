@@ -1,11 +1,12 @@
-# Documentation
+# Documentation du cercle agile d'ANEO
 
-Ceci est une expérience pour co-construire les principes de fonctionnement, et plus  généralement les idées partagées et tout ce qui mérite d'être documenté, de notre cercle
+Ceci est une expérience pour documenter collaborativement les principes de fonctionnement, les idées et les apprentissages communs du cercle agile d'ANEO
 
-Commencez par aller voir les [principes fondateurs](Principes%20fondateurs.md) pour en savoir plus...
+Principaux points d'entrée :
 
-Autres documents à consulter :
-*  [Nos rituels](Nos%20rituels.md)
+* [Principes fondateurs](Principes%20fondateurs.md) de cette documentation
+* Description de [ce qui nous réunit](Ce%20qui%20nous%20réunit.md) en tant que membres de ce cercle
+* [Nos rituels](Nos%20rituels.md)
 
 ## Contribution
 
